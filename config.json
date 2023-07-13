@@ -19,8 +19,12 @@
       "func_command_prefix":"$tool "
     },
     {
-      "key_word": "搜索",
-      "func_command_prefix": "$tool bing "
+      "key_word": "微博热搜",
+      "func_command_prefix":"$tool "
+    },
+    {
+      "key_word": "成都天气",
+      "func_command_prefix": "$tool "
     },
     {
       "key_word": "GPT",
