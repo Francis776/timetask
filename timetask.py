@@ -19,6 +19,12 @@ import config as RobotConfig
 import requests
 import io
 import time
+import pytz
+import datetime
+
+
+timezone = pytz.timezone('Asia/Shanghai')
+local_time = datetime.datetime.now(timezone)
 
 class TimeTaskRemindType(Enum):
     NO_Task = 1           #无任务
