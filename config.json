@@ -19,7 +19,7 @@
       "func_command_prefix":""
     },
     {
-      "key_word": "绘画",
+      "key_word": "画",
       "func_command_prefix":""
     },
      {
@@ -43,8 +43,24 @@
       "func_command_prefix": ""
     },
     {
-      "key_word": "GPT",
-      "func_command_prefix": "GPT"
+      "key_word": "肯德基",
+      "func_command_prefix": ""
+    },
+        {
+      "key_word": "热映电影",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "抽签",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "地震查询",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "手机壁纸",
+      "func_command_prefix": ""
     }
   ]
 }
