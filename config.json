@@ -19,15 +19,7 @@
       "func_command_prefix":""
     },
     {
-      "key_word": "油管磊哥",
-      "func_command_prefix":""
-    },
-     {
-      "key_word": "油管零度解说",
-      "func_command_prefix":""
-    },
-    {
-      "key_word": "微博",
+      "key_word": "微博热搜",
       "func_command_prefix":""
     },
     {
@@ -55,11 +47,59 @@
       "func_command_prefix": ""
     },
     {
-      "key_word": "地震查询",
+      "key_word": "手机壁纸",
       "func_command_prefix": ""
     },
     {
+      "key_word": "历史上的今天",
+      "func_command_prefix": ""
+    },  
+    {
+      "key_word": "电影票房",
+      "func_command_prefix": ""
+    },  
+    {
+      "key_word": "网易云热榜",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "QQ音乐热榜",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "热播电影",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "热播电视剧",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "热播综艺",
+      "func_command_prefix": ""
+    },
+    {
+      "key_word": "cow仓库",
+      "func_command_prefix": ""
+    },
+        {
       "key_word": "王者荣耀公告",
+      "func_command_prefix": ""
+    },
+        {
+      "key_word": "a姐",
+      "func_command_prefix": ""
+    },
+        {
+      "key_word": "油管磊哥",
+      "func_command_prefix": ""
+    },
+        {
+      "key_word": "零度解说",
+      "func_command_prefix": ""
+    },
+        {
+      "key_word": "地震查询",
       "func_command_prefix": ""
     }
   ]
