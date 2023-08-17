@@ -33,7 +33,7 @@ class TimeTaskRemindType(Enum):
 
 @plugins.register(
     name="timetask",
-    desire_priority=777,
+    desire_priority=888,
     hidden=True,
     desc="定时任务系统，可定时处理事件",
     version="2.3",
