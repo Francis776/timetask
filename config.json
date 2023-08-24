@@ -99,6 +99,14 @@
       "func_command_prefix": ""
     },
         {
+      "key_word": "内涵段子",
+      "func_command_prefix": ""
+    }, 
+        {
+      "key_word": "今日八卦",
+      "func_command_prefix": ""
+    },
+        {
       "key_word": "地震查询",
       "func_command_prefix": ""
     }
